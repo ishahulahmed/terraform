@@ -17,7 +17,7 @@ variable "common_tags" {
 }
 
 variable "domain_name" {
-    default = "daws78s.online"
+    default = "shahulahmed.online"
 }
 
 variable "zone_id" {
